@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="01-Variable-and-DataTypes/01-Variable-and-DataTypes.csproj" />
+  <Project Path="02-TypeConversion/02-TypeConversion.csproj" Id="bd0eaad3-dce4-4ac0-ab8f-563df005e628" />
 </Solution>
