@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="01-Variable-and-DataTypes/01-Variable-and-DataTypes.csproj" />
   <Project Path="02-TypeConversion/02-TypeConversion.csproj" Id="bd0eaad3-dce4-4ac0-ab8f-563df005e628" />
+  <Project Path="03-String-Operations/03-String-Operations.csproj" Id="de998c47-e293-4b8b-82db-0530158dfbea" />
 </Solution>
