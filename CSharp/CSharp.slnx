@@ -3,4 +3,5 @@
   <Project Path="02-TypeConversion/02-TypeConversion.csproj" Id="bd0eaad3-dce4-4ac0-ab8f-563df005e628" />
   <Project Path="03-String-Operations/03-String-Operations.csproj" Id="de998c47-e293-4b8b-82db-0530158dfbea" />
   <Project Path="04-Console-methods/04-Console-methods.csproj" Id="3f488897-c686-46ab-88dd-aa863ede2f4f" />
+  <Project Path="05-First-Task/05-First-Task.csproj" Id="04c4c900-6962-4b94-85ee-d61225c794e5" />
 </Solution>
