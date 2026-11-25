@@ -5,4 +5,5 @@
   <Project Path="04-Console-methods/04-Console-methods.csproj" Id="3f488897-c686-46ab-88dd-aa863ede2f4f" />
   <Project Path="05-First-Task/05-First-Task.csproj" Id="04c4c900-6962-4b94-85ee-d61225c794e5" />
   <Project Path="06-Operators/06-Operators.csproj" Id="a8a6ad28-47c5-404e-8241-92d3ef77ed5b" />
+  <Project Path="07-Functions/07-Functions.csproj" Id="3b86364d-1f21-4331-9b4f-4154f64ceb6e" />
 </Solution>
